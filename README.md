@@ -1,3 +1,4 @@
 - Execute o Servidor;
 - Execute o Cliente, serão trafegados 1000 pacotes para análise dos parâmetros e geração dos gráficos utilizados na análise;
 - Execute o arquivo plotar.py para que sejam exibidos os gráficos de acordo com a necessidade;
+- O parâmetro de perda de pacotes pode ser ajusta no run do cliente;
