@@ -1,4 +1,4 @@
-- pip install requirements.txt;
+- pip install -r requirements.txt;
 - Execute o Servidor.py;
 - Execute o Cliente.py, serão trafegados 1000 pacotes para análise dos parâmetros e geração dos gráficos utilizados na análise;
   Como podemos observar são gerados os arquivos csv's com os dados que serão utilizados na plotagem dos gráficos
